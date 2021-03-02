@@ -1,0 +1,15 @@
+.timeline-container {
+    display: flex;
+}
+.newsfeed {
+    width: 70%;
+    
+}
+.friends {
+    text-align: center;
+    width:30%;
+}
+.newsfeed-box {
+    display: grid;
+  grid-template-columns: auto auto auto;
+}
